@@ -30,3 +30,8 @@ nav {
 .logo img {
   width: 15%;
 }
+
+.container {
+  width: 25% !important;
+  height: 50vh;
+}
