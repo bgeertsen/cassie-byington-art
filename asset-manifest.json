@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/cassie-byington-art/static/css/main.e0d21a56.css",
+    "main.js": "/cassie-byington-art/static/js/main.67538cf7.js",
+    "static/media/logo.webp": "/cassie-byington-art/static/media/logo.0b7ca5238db617b27847.webp",
+    "index.html": "/cassie-byington-art/index.html",
+    "main.e0d21a56.css.map": "/cassie-byington-art/static/css/main.e0d21a56.css.map",
+    "main.67538cf7.js.map": "/cassie-byington-art/static/js/main.67538cf7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e0d21a56.css",
+    "static/js/main.67538cf7.js"
+  ]
+}
